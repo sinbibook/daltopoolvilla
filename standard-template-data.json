@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-02-24T05:17:53.607Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-02-24T05:29:43.953Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -1130,8 +1130,8 @@
       {
         "logo": [
           {
-            "id": "085d9043-3f96-425c-b458-2a9c16c79bcd",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/logo/1771904106129-notw8ia10z.png",
+            "id": "88ae4eab-d5b8-4d66-bc56-8c4cf831aa3a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/logo/1771910330396-mxqw03xfiji.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
@@ -1246,14 +1246,14 @@
                     "id": "7cb11d46-c319-4c38-88b7-a631c40af55f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_essence/1771895056881-q8e47dz9rw.jpg",
                     "sortOrder": 0,
-                    "description": "산속에 자리한 독립형 글램핑 단지, 영덕 달토글램핑.\n각 동이 분리되어 있어 보다 프라이빗하게 이용하실 수 있습니다.\n야간에도 안전한 조명 시설로 편안한 숙박 환경을 제공합니다.\n쾌적하게 정비된 단지 내 동선과 주차 공간 마련.\n자연 속 위치로 조용한 휴식을 원하는 분들께 적합합니다.\n커플·가족·소규모 모임까지 부담 없이 이용 가능.\n도심과 떨어진 한적한 분위기에서 여유로운 1박.\n사진으로 보던 감성을 실제 공간에서 경험해보세요.\n주말 힐링 여행지로 꾸준히 찾는 글램핑장.\n지금 예약하시고 편안한 자연 속 숙박을 계획해보세요.",
+                    "description": "산속에 자리한 독립형 글램핑 단지, 영덕 달토글램핑\n각 동이 분리되어 있어 보다 프라이빗하게 이용하실 수 있습니다.\n야간에도 안전한 조명 시설로 편안한 숙박 환경을 제공합니다.\n쾌적하게 정비된 단지 내 동선과 주차 공간 마련.\n자연 속 위치로 조용한 휴식을 원하는 분들께 적합합니다.\n커플·가족·소규모 모임까지 부담 없이 이용 가능.\n도심과 떨어진 한적한 분위기에서 여유로운 1박.\n사진으로 보던 감성을 실제 공간에서 경험해보세요.\n주말 힐링 여행지로 꾸준히 찾는 글램핑장.\n지금 예약하시고 편안한 자연 속 숙박을 계획해보세요.",
                     "isSelected": true
                   },
                   {
                     "id": "b94ada81-b3bd-4395-a0da-3719122d3e1c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_essence/1771895056882-29d8b3r4yrb.jpg",
                     "sortOrder": 1,
-                    "description": "명상실부터 발리스윙까지 다양한 힐링 공간을 갖춘 글램핑장.\n객실별 개별 수영장과 자쿠지로 프라이빗한 휴식을 즐길 수 있습니다.\n야외에서는 감성적인 불멍 공간이 마련되어 특별한 밤을 완성합니다.\n바베큐 시설이 준비되어 편리하게 식사를 즐기실 수 있습니다.\n산책하기 좋은 비밀의 정원에서 여유로운 시간을 보내세요.\n짚라인 등 액티비티 시설로 색다른 즐거움도 경험할 수 있습니다.\n자연 속에서 힐링과 레저를 모두 누릴 수 있는 공간.\n다양한 부대시설로 머무는 내내 지루할 틈 없는 글램핑입니다.",
+                    "description": "명상실부터 발리스윙까지 다양한 힐링 공간을 갖춘 글램핑장\n객실별 개별 수영장과 자쿠지로 프라이빗한 휴식을 즐길 수 있습니다.\n야외에서는 감성적인 불멍 공간이 마련되어 특별한 밤을 완성합니다.\n바베큐 시설이 준비되어 편리하게 식사를 즐기실 수 있습니다.\n산책하기 좋은 비밀의 정원에서 여유로운 시간을 보내세요.\n짚라인 등 액티비티 시설로 색다른 즐거움도 경험할 수 있습니다.\n자연 속에서 힐링과 레저를 모두 누릴 수 있는 공간\n다양한 부대시설로 머무는 내내 지루할 틈 없는 글램핑입니다.",
                     "isSelected": true
                   },
                   {
@@ -1343,6 +1343,13 @@
                   {
                     "id": "44665d2e-dcc8-401a-ac21-eaaba202f22b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_hero/1771896847001-c86rhksfevo.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "001c2968-834b-469e-9af6-30423dccc56d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_hero/1771910973013-9xemimn98f.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
@@ -1350,6 +1357,13 @@
                   {
                     "id": "64452d75-4dd7-4fa2-86b8-9a2b2caa65ad",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_hero/1771896847001-557xar8odx5.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f462f4c6-738d-4891-b710-1f16003bde18",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_hero/1771910973013-kn074xyjrb8.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true
@@ -1371,31 +1385,7 @@
                     {
                       "id": "14f46425-60e2-4f9a-aa56-e3c53acd6036",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-hf7m5nts3cs.jpg",
-                      "sortOrder": 0,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f"
-                    },
-                    {
-                      "id": "83c21599-cc91-43bb-b3e2-1d9735c02cfc",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-87q7jip2l32.jpg",
-                      "sortOrder": 1,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f"
-                    },
-                    {
-                      "id": "6d8549cc-8893-4805-9ada-b4966a9746c6",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-wdly4vy853.jpg",
-                      "sortOrder": 2,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f"
-                    },
-                    {
-                      "id": "a699d788-2bb2-49e6-9742-a51d5b532578",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-yyq95ddmrq.jpg",
-                      "sortOrder": 3,
+                      "sortOrder": 5,
                       "description": "",
                       "isSelected": true,
                       "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f"
@@ -1403,14 +1393,38 @@
                     {
                       "id": "b2f908bc-effb-401d-b95b-57329fc7c993",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-372crwx5rc4.jpg",
-                      "sortOrder": 4,
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f"
+                    },
+                    {
+                      "id": "83c21599-cc91-43bb-b3e2-1d9735c02cfc",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-87q7jip2l32.jpg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f"
+                    },
+                    {
+                      "id": "6d8549cc-8893-4805-9ada-b4966a9746c6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-wdly4vy853.jpg",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f"
+                    },
+                    {
+                      "id": "761823ef-46dd-49a4-80b5-e1e934daf989",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771910973013-6p5karxjyjp.jpg",
+                      "sortOrder": 9,
                       "description": "",
                       "isSelected": true,
                       "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f"
                     }
                   ],
                   "blockId": "ccdd04a9-de62-41a6-a453-e18c2a9bbe6f",
-                  "description": "하루의 끝, 달빛이 가장 먼저 내려앉는 곳,  \n소란한 일상에서 한 걸음 멀어집니다  \n파도 소리와 바람이 천천히 시간을 늦추고 \n불빛보다 별이 더 가까워지는 밤  \n자연 속에서 머무는 조용한 글램핑 \n아무것도 하지 않아도 충분한 휴식 \n달 아래서 깊어지는 여유로운 순간 \n몸과 마음이 자연스럽게 풀리는 시간  \n오늘 하루를 부드럽게 마무리하는 방법,   \n영덕 달토글램핑"
+                  "description": "붉게 물드는 노을을 감상할 수 있는 여유로운 공간.\n탁 트인 전망 너머로 고래불해수욕장이 보이는 위치.\n가까운 벌영리 메타세쿼이아길에서 산책을 즐길 수 있습니다.\n뒤로는 산이 둘러싸여 한층 더 조용한 분위기를 느낄 수 있습니다.\n바다와 숲을 함께 누릴 수 있는 자연 속 입지\n관광과 휴식을 모두 충족하는 최적의 환경\n복잡한 도심을 벗어나 온전히 쉬어가기 좋은 곳\n자연에 머물며 재충전하는 휴양 공간입니다."
                 },
                 {
                   "title": "chapter #2",
@@ -1418,7 +1432,7 @@
                     {
                       "id": "cb709394-f425-4f1a-a45d-818ebcd5642b",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-u4fbhq3i3f.jpg",
-                      "sortOrder": 5,
+                      "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
                       "blockId": "7d328d7d-c3f4-4ed1-8c34-54b40a33cbe9"
@@ -1426,7 +1440,7 @@
                     {
                       "id": "0a8aa6cb-55f4-4cb1-80e3-ca6c94a7ce18",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-pc5jxx1qqml.jpg",
-                      "sortOrder": 6,
+                      "sortOrder": 1,
                       "description": "",
                       "isSelected": true,
                       "blockId": "7d328d7d-c3f4-4ed1-8c34-54b40a33cbe9"
@@ -1434,7 +1448,7 @@
                     {
                       "id": "71a1bff4-5acc-42ff-97ca-87d8efa48994",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-aimmwf1pgcc.jpg",
-                      "sortOrder": 7,
+                      "sortOrder": 2,
                       "description": "",
                       "isSelected": true,
                       "blockId": "7d328d7d-c3f4-4ed1-8c34-54b40a33cbe9"
@@ -1442,7 +1456,7 @@
                     {
                       "id": "b68818db-b5fc-4324-9bd2-36e44c4be960",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-brpx3k8i3ur.jpg",
-                      "sortOrder": 8,
+                      "sortOrder": 3,
                       "description": "",
                       "isSelected": true,
                       "blockId": "7d328d7d-c3f4-4ed1-8c34-54b40a33cbe9"
@@ -1450,14 +1464,14 @@
                     {
                       "id": "1c218564-0e18-4186-8f10-bb85abad9d10",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/main_about/1771896847001-gikne0tplrl.jpg",
-                      "sortOrder": 9,
+                      "sortOrder": 4,
                       "description": "",
                       "isSelected": true,
                       "blockId": "7d328d7d-c3f4-4ed1-8c34-54b40a33cbe9"
                     }
                   ],
                   "blockId": "7d328d7d-c3f4-4ed1-8c34-54b40a33cbe9",
-                  "description": "하루의 끝, 달빛이 가장 먼저 내려앉는 곳,  \n소란한 일상에서 한 걸음 멀어집니다  \n파도 소리와 바람이 천천히 시간을 늦추고 \n불빛보다 별이 더 가까워지는 밤  \n자연 속에서 머무는 조용한 글램핑 \n아무것도 하지 않아도 충분한 휴식 \n달 아래서 깊어지는 여유로운 순간 \n몸과 마음이 자연스럽게 풀리는 시간  \n오늘 하루를 부드럽게 마무리하는 방법,   \n영덕 달토글램핑"
+                  "description": "명상실부터 발리스윙까지 다양한 힐링 공간을 갖춘 글램핑장\n객실별 개별 수영장과 자쿠지로 프라이빗한 휴식을 즐길 수 있습니다.\n야외에서는 감성적인 불멍 공간이 마련되어 특별한 밤을 완성합니다.\n바베큐 시설이 준비되어 편리하게 식사를 즐기실 수 있습니다.\n산책하기 좋은 비밀의 정원에서 여유로운 시간을 보내세요.\n짚라인 등 액티비티 시설로 색다른 즐거움도 경험할 수 있습니다.\n자연 속에서 힐링과 레저를 모두 누릴 수 있는 공간\n다양한 부대시설로 머무는 내내 지루할 틈 없는 글램핑입니다."
                 }
               ]
             }
