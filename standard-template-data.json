@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-02-24T08:50:01.172Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-02-24T09:03:23.744Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -1224,8 +1224,8 @@
       {
         "logo": [
           {
-            "id": "88ae4eab-d5b8-4d66-bc56-8c4cf831aa3a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/logo/1771910330396-mxqw03xfiji.png",
+            "id": "c465747b-5b32-41d0-b22e-0d4f74d5ae99",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/logo/1771923793878-ff6n46sbsgw.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
@@ -5055,6 +5055,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "633e8d96-af92-405f-a65f-eb89e825373e"
   }
 }
