@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-02-24T06:06:08.096Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-02-24T06:21:45.660Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -437,7 +437,7 @@
         "id": "b6e4d7af-dafd-488a-a0ae-c18bc2e4ab1e",
         "name": "부대시설",
         "description": "달토에서 즐길 수 있는 특별한 부대시설 ",
-        "usageGuide": "[카페&무인매점]\n- 간단한 음료, 스낵, 라면 등 구매 가능\n\n[짚라인]\n- 짚라인 이용가능 \n\n[전기차충전소]\n- 전기차 충전 이용가능",
+        "usageGuide": "[카페&무인매점] 간단한 음료, 스낵, 라면 등 구매 가능\n\n[짚라인] 짚라인 이용가능 \n\n[전기차충전소] 전기차 충전 이용가능",
         "displayOrder": 9,
         "images": [
           {
@@ -564,7 +564,7 @@
       "id": "09b7f04e-a392-4c9c-942d-68c4e82950a1",
       "name": "오션뷰풀램핑 1 (조식포함/랜덤배정)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": "오션뷰풀램핑 (조식포함/랜덤배정)",
       "size": 82,
@@ -615,7 +615,7 @@
       "id": "86f7612d-dbab-46c8-911e-a283ff90e413",
       "name": "당일 피크닉  (바베큐무한리필/랜덤배정)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스\n이용시간 : 당일 입실에서 퇴실하는 당일피크닉으로 14:00~21:00",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스\n이용시간 : 당일 입실에서 퇴실하는 당일피크닉으로 14:00~21:00",
       "usageGuide": "",
       "group": "당일 피크닉 (바베큐무한리필/랜덤배정)",
       "size": 82,
@@ -666,7 +666,7 @@
       "id": "0208015d-3153-4bfa-bf10-41ce1dd90d1e",
       "name": "S111 풀램핑 (바베큐무한리필+조식)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -717,7 +717,7 @@
       "id": "6b2e9705-d4ad-496e-a99e-accbe7d05cee",
       "name": "S101 풀램핑 (바베큐무한리필+조식)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -765,61 +765,10 @@
       "displayOrder": 5
     },
     {
-      "id": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
-      "name": "S106 풀램핑 (바베큐무한리필+조식) ",
-      "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": null,
-      "size": 82,
-      "baseOccupancy": 2,
-      "maxOccupancy": 5,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0
-      },
-      "bedTypes": [
-        "퀸 베드"
-      ],
-      "amenities": [
-        "침대",
-        "테라스",
-        "무료 WiFi",
-        "에어컨",
-        "냉장고",
-        "전자레인지",
-        "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "식기류",
-        "전기포트",
-        "화장실",
-        "자쿠지",
-        "개별바비큐",
-        "글램핑",
-        "풀빌라",
-        "금연"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [],
-      "status": "active",
-      "images": [
-        {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
-        }
-      ],
-      "displayOrder": 6
-    },
-    {
       "id": "5a9420f6-704f-492e-a38f-d4e1a99baf6e",
       "name": "S102 풀램핑 (바베큐무한리필+조식)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -867,10 +816,61 @@
       "displayOrder": 6
     },
     {
-      "id": "04e80c95-6661-490a-9019-51001a89c353",
-      "name": "S107 풀램핑 (바베큐무한리필+조식)  ",
+      "id": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
+      "name": "S106 풀램핑 (바베큐무한리필+조식) ",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
+      "usageGuide": "",
+      "group": null,
+      "size": 82,
+      "baseOccupancy": 2,
+      "maxOccupancy": 5,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "amenities": [
+        "침대",
+        "테라스",
+        "무료 WiFi",
+        "에어컨",
+        "냉장고",
+        "전자레인지",
+        "인덕션",
+        "전기밥솥",
+        "조리도구",
+        "식기류",
+        "전기포트",
+        "화장실",
+        "자쿠지",
+        "개별바비큐",
+        "글램핑",
+        "풀빌라",
+        "금연"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 6
+    },
+    {
+      "id": "2abaf6a6-f38e-4c33-94cf-bcdf894b0fff",
+      "name": "S103 풀램핑 (바베큐무한리필+조식)",
+      "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -918,10 +918,10 @@
       "displayOrder": 7
     },
     {
-      "id": "2abaf6a6-f38e-4c33-94cf-bcdf894b0fff",
-      "name": "S103 풀램핑 (바베큐무한리필+조식)",
+      "id": "04e80c95-6661-490a-9019-51001a89c353",
+      "name": "S107 풀램핑 (바베큐무한리필+조식)  ",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -972,7 +972,7 @@
       "id": "c67b092d-e608-4f04-9955-63655361c1d8",
       "name": "S108 풀램핑 (바베큐무한리필+조식) ",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -1023,7 +1023,7 @@
       "id": "0d4b3ada-c24e-4e86-85d6-a7b729ed3ca4",
       "name": "S104 풀램핑 (바베큐무한리필+조식)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -1125,7 +1125,7 @@
       "id": "d2c89dd8-0205-4247-8b21-e174006c95ff",
       "name": "S109 풀램핑 (바베큐무한리필+조식) ",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -1176,7 +1176,7 @@
       "id": "db11024c-55b9-414c-98cd-b097eac2e313",
       "name": "S110 풀램핑 (바베큐무한리필+조식)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "roomInfo": "",
+      "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
       "group": null,
       "size": 82,
@@ -5152,7 +5152,6 @@
           ]
         }
       ]
-    },
-    "id": "633e8d96-af92-405f-a65f-eb89e825373e"
+    }
   }
 }
