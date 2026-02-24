@@ -1,1 +1,1 @@
-# daltopoolvilla
+# template-full-banner-wipe
