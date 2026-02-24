@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-02-24T03:57:32.683Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-02-24T05:17:53.607Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -1128,7 +1128,15 @@
     "templateType": "fullpage_visual",
     "images": [
       {
-        "logo": []
+        "logo": [
+          {
+            "id": "085d9043-3f96-425c-b458-2a9c16c79bcd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/logo/1771904106129-notw8ia10z.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "seo": {
@@ -1238,26 +1246,26 @@
                     "id": "7cb11d46-c319-4c38-88b7-a631c40af55f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_essence/1771895056881-q8e47dz9rw.jpg",
                     "sortOrder": 0,
-                    "description": "눈 내린 숲 속에 차분히 자리한 영덕 달토글램핑은 자연과 건축이 조화롭게 어우러진 공간입니다. 계절의 변화가 고스란히 담긴 풍경 속에서 일상의 속도를 천천히 내려놓을 수 있습니다. 단정한 구조와 여백 있는 배치는 머무는 동안 더욱 깊은 휴식을 만들어줍니다. 사적인 공간이 보장된 글램핑에서 누구의 방해 없이 온전히 나에게 집중하는 시간이 이어집니다. 자연의 고요함과 공간의 따뜻함이 하루를 부드럽게 감싸고, 영덕 달토글램핑에서 기억에 남을 특별한 하루가 완성됩니다.",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "9f05c28b-665c-43c1-b4e4-03e950fa3df3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_essence/1771895056882-fzonaewxnno.jpg",
-                    "sortOrder": 1,
-                    "description": "눈 내린 숲 속에 차분히 자리한 영덕 달토글램핑은 자연과 건축이 조화롭게 어우러진 공간입니다. 계절의 변화가 고스란히 담긴 풍경 속에서 일상의 속도를 천천히 내려놓을 수 있습니다. 단정한 구조와 여백 있는 배치는 머무는 동안 더욱 깊은 휴식을 만들어줍니다. 사적인 공간이 보장된 글램핑에서 누구의 방해 없이 온전히 나에게 집중하는 시간이 이어집니다. 자연의 고요함과 공간의 따뜻함이 하루를 부드럽게 감싸고, 영덕 달토글램핑에서 기억에 남을 특별한 하루가 완성됩니다.",
+                    "description": "산속에 자리한 독립형 글램핑 단지, 영덕 달토글램핑.\n각 동이 분리되어 있어 보다 프라이빗하게 이용하실 수 있습니다.\n야간에도 안전한 조명 시설로 편안한 숙박 환경을 제공합니다.\n쾌적하게 정비된 단지 내 동선과 주차 공간 마련.\n자연 속 위치로 조용한 휴식을 원하는 분들께 적합합니다.\n커플·가족·소규모 모임까지 부담 없이 이용 가능.\n도심과 떨어진 한적한 분위기에서 여유로운 1박.\n사진으로 보던 감성을 실제 공간에서 경험해보세요.\n주말 힐링 여행지로 꾸준히 찾는 글램핑장.\n지금 예약하시고 편안한 자연 속 숙박을 계획해보세요.",
                     "isSelected": true
                   },
                   {
                     "id": "b94ada81-b3bd-4395-a0da-3719122d3e1c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_essence/1771895056882-29d8b3r4yrb.jpg",
-                    "sortOrder": 2,
-                    "description": "",
+                    "sortOrder": 1,
+                    "description": "명상실부터 발리스윙까지 다양한 힐링 공간을 갖춘 글램핑장.\n객실별 개별 수영장과 자쿠지로 프라이빗한 휴식을 즐길 수 있습니다.\n야외에서는 감성적인 불멍 공간이 마련되어 특별한 밤을 완성합니다.\n바베큐 시설이 준비되어 편리하게 식사를 즐기실 수 있습니다.\n산책하기 좋은 비밀의 정원에서 여유로운 시간을 보내세요.\n짚라인 등 액티비티 시설로 색다른 즐거움도 경험할 수 있습니다.\n자연 속에서 힐링과 레저를 모두 누릴 수 있는 공간.\n다양한 부대시설로 머무는 내내 지루할 틈 없는 글램핑입니다.",
                     "isSelected": true
                   },
                   {
                     "id": "00635a81-d20f-4269-844d-43f2510fb050",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_essence/1771895056882-kcnnxn0xjt.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "1772872e-b38d-4583-9788-3a036cd1f7e9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_essence/1771910026762-ynfhoc0b6p.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true
@@ -1306,8 +1314,8 @@
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": "ㅎㅎ",
+                "description": "ㅎㅎ"
               }
             }
           ]
@@ -1520,12 +1528,7 @@
             "woff2": null,
             "family": "Cormorant"
           },
-          "koMain": {
-            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
-            "key": "notoserifKR",
-            "woff2": null,
-            "family": "Noto Serif KR"
-          }
+          "koMain": null
         },
         "color": {
           "primary": "#ECEBE8",
