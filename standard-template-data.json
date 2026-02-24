@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-02-24T06:36:06.200Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-02-24T06:49:46.972Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -565,7 +565,7 @@
       "name": "오션뷰풀램핑 1 (조식포함/랜덤배정)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
-      "usageGuide": "",
+      "usageGuide": "[펜션 이용 안내 사항]\n1. 객실 별 정해진 최대 인원은 초과할 수 없으며, 최대 인원 초과시 입실이 제한됩니다.\n2. 애완동물은 동반 입실 하실 수 없습니다. \n3. 전 객실의 실내는 금연구역이며, 화재 위험이 있는 촛불 및 폭죽사용, 부탄가스 사용은 금지입니다.\n4. 객실 내에서 해산물 및 고기요리와 튀김류 조리는 삼가주시기 바랍니다.\n5. 미성년자는 보호자 동반없이 이용하실수 없습니다.\n6. 부주의로 인해 일어난 안전사고, 귀중품(현금포함) 분실 및 파손에 대해서는 글램핑에 책임을 물을 수 없습니다.\n7. 마지막 퇴실시에는 실내에 있는 쓰레기는 분리수거해 버려 주시고 사용하신 식기도 세척해 주시기 바랍니다.\n8. 당일피크닉의 객실의 경우 당일 입실에서 퇴실하는 피크닉으로 14:00~21:00 까지 이용 가능합니다.\n\n[인원추가(1박기준/현장결제)]\n- 24개월~만 7세 미만 1인당 20,000원\n- 만 7세~성인 1인당 30,000원\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[개별BBQ 무료제공]\n- 목살&삼겹살 BBQ 무한리필 제공(오션뷰풀빌라1,2 옵션 선택 시 BBQ 미포함)\n- 1회제공 : 야채도시락(상추, 청양고추), 반찬도시락(김치, 마늘장아찌, 쌈무, 쌈장, 굵은소금), 소세지, 버섯, 파인애플, 떡 등 (상황에 따라 종류 변동)\n- 야자숯 + 그릴 : 1회 무료 제공 (추가 시 10,000원 발생)\n- 이용 장소 : 전 객실 개별 바베큐장 이용\n- 이용시간 : 17:30~20:00 \n- 추가 선택 메뉴 : 해산물(조개류,새우등) 2kg 50,000원 / 수제 닭꼬치파닭 160g*2개 10,000원\n- 추가 선택 메뉴만 주문시 숯/그릴 미제공\n- 추가금액 현장결제\n\n[전 객실 실내 미온수수영장]\n- 전 객실 개별 실내 미온수 수영장이며, 칠보산 온천맥의 천연 암반수 사용\n- 이용 요금 : 50,000원(1박기준/현장결제)\n- 사용시간 : 사계절 입실 ~ 퇴실 시까지 온도 유지(34도 내외)\n- 수영장 크기 : 3.5m*2m / 물높이 90cm\n- 준비물 : 수영복이나 래쉬가드 필수\n- 120cm 이하 어린이 튜브 구명조끼 착용\n- 어린이는 보호자 동반 및 다이빙 불가\n- 최소 입실 하루 전 사용 여부 확인 필수\n\n[전 객실 자쿠지]\n- 칠보산 온천맥에서 올라오는 음용수로도 합격한 천연암반수 온수 자쿠지\n- 핸드메이드 천연 입욕제 제공\n- 이용요금 : 30,000원(1박기준/현장결제)",
       "group": "오션뷰풀램핑 (조식포함/랜덤배정)",
       "size": 82,
       "baseOccupancy": 2,
@@ -616,7 +616,7 @@
       "name": "당일 피크닉  (바베큐무한리필/랜덤배정)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스\n이용시간 : 당일 입실에서 퇴실하는 당일피크닉으로 14:00~21:00",
       "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스\n이용시간 : 당일 입실에서 퇴실하는 당일피크닉으로 14:00~21:00",
-      "usageGuide": "",
+      "usageGuide": "[펜션 이용 안내 사항]\n1. 객실 별 정해진 최대 인원은 초과할 수 없으며, 최대 인원 초과시 입실이 제한됩니다.\n2. 애완동물은 동반 입실 하실 수 없습니다. \n3. 전 객실의 실내는 금연구역이며, 화재 위험이 있는 촛불 및 폭죽사용, 부탄가스 사용은 금지입니다.\n4. 객실 내에서 해산물 및 고기요리와 튀김류 조리는 삼가주시기 바랍니다.\n5. 미성년자는 보호자 동반없이 이용하실수 없습니다.\n6. 부주의로 인해 일어난 안전사고, 귀중품(현금포함) 분실 및 파손에 대해서는 글램핑에 책임을 물을 수 없습니다.\n7. 마지막 퇴실시에는 실내에 있는 쓰레기는 분리수거해 버려 주시고 사용하신 식기도 세척해 주시기 바랍니다.\n8. 당일피크닉의 객실의 경우 당일 입실에서 퇴실하는 피크닉으로 14:00~21:00 까지 이용 가능합니다.\n\n[인원추가(1박기준/현장결제)]\n- 24개월~만 7세 미만 1인당 20,000원\n- 만 7세~성인 1인당 30,000원\n- 영유아 인원수 포함 / 최대인원 초과불가\n\n[개별BBQ 무료제공]\n- 목살&삼겹살 BBQ 무한리필 제공(오션뷰풀빌라1,2 옵션 선택 시 BBQ 미포함)\n- 1회제공 : 야채도시락(상추, 청양고추), 반찬도시락(김치, 마늘장아찌, 쌈무, 쌈장, 굵은소금), 소세지, 버섯, 파인애플, 떡 등 (상황에 따라 종류 변동)\n- 야자숯 + 그릴 : 1회 무료 제공 (추가 시 10,000원 발생)\n- 이용 장소 : 전 객실 개별 바베큐장 이용\n- 이용시간 : 17:30~20:00 \n- 추가 선택 메뉴 : 해산물(조개류,새우등) 2kg 50,000원 / 수제 닭꼬치파닭 160g*2개 10,000원\n- 추가 선택 메뉴만 주문시 숯/그릴 미제공\n- 추가금액 현장결제\n\n[전 객실 실내 미온수수영장]\n- 전 객실 개별 실내 미온수 수영장이며, 칠보산 온천맥의 천연 암반수 사용\n- 이용 요금 : 50,000원(1박기준/현장결제)\n- 사용시간 : 사계절 입실 ~ 퇴실 시까지 온도 유지(34도 내외)\n- 수영장 크기 : 3.5m*2m / 물높이 90cm\n- 준비물 : 수영복이나 래쉬가드 필수\n- 120cm 이하 어린이 튜브 구명조끼 착용\n- 어린이는 보호자 동반 및 다이빙 불가\n- 최소 입실 하루 전 사용 여부 확인 필수\n\n[전 객실 자쿠지]\n- 칠보산 온천맥에서 올라오는 음용수로도 합격한 천연암반수 온수 자쿠지\n- 핸드메이드 천연 입욕제 제공\n- 이용요금 : 30,000원(1박기준/현장결제)",
       "group": "당일 피크닉 (바베큐무한리필/랜덤배정)",
       "size": 82,
       "baseOccupancy": 2,
@@ -765,8 +765,8 @@
       "displayOrder": 5
     },
     {
-      "id": "5a9420f6-704f-492e-a38f-d4e1a99baf6e",
-      "name": "S102 풀램핑 (바베큐무한리필+조식)",
+      "id": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
+      "name": "S106 풀램핑 (바베큐무한리필+조식) ",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
@@ -816,8 +816,8 @@
       "displayOrder": 6
     },
     {
-      "id": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
-      "name": "S106 풀램핑 (바베큐무한리필+조식) ",
+      "id": "5a9420f6-704f-492e-a38f-d4e1a99baf6e",
+      "name": "S102 풀램핑 (바베큐무한리필+조식)",
       "description": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "roomInfo": "독채형 : 침대룸(퀸2)+주방+화장실+자쿠지+실내수영장+테라스",
       "usageGuide": "",
@@ -2269,27 +2269,9 @@
               "category": "roomtype_exterior"
             },
             {
-              "id": "744eff73-211d-41ad-a3ff-c49f1869b2a7",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894060979-9fol62ixn1.jpg",
-              "sortOrder": 7,
-              "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "86f7612d-dbab-46c8-911e-a283ff90e413",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "6f9946e8-d07b-459b-aa90-55858a5b0473",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894060979-2jxj1wxbgou.jpg",
-              "sortOrder": 8,
-              "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "86f7612d-dbab-46c8-911e-a283ff90e413",
-              "category": "roomtype_exterior"
-            },
-            {
               "id": "9e97af5c-e63f-4fa8-9926-9b1bc44e27c0",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771912607459-04f6i8e0a456.jpg",
-              "sortOrder": 9,
+              "sortOrder": 7,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "86f7612d-dbab-46c8-911e-a283ff90e413",
@@ -2528,7 +2510,7 @@
             {
               "id": "2b6dfb66-7f6b-450c-886c-bd73fde9dd31",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894119219-lei49ysdg9.jpg",
-              "sortOrder": 10,
+              "sortOrder": 8,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "0208015d-3153-4bfa-bf10-41ce1dd90d1e",
@@ -2537,7 +2519,7 @@
             {
               "id": "2b07111a-19da-4bf7-8bdc-dd3151f7c697",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894119219-skps7fh22yq.jpg",
-              "sortOrder": 11,
+              "sortOrder": 9,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "0208015d-3153-4bfa-bf10-41ce1dd90d1e",
@@ -2546,7 +2528,7 @@
             {
               "id": "bfe8ed1d-3ad0-46bf-b7f0-7fa10dcfca14",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894119219-e8rsdiv6uz.jpg",
-              "sortOrder": 12,
+              "sortOrder": 10,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "0208015d-3153-4bfa-bf10-41ce1dd90d1e",
@@ -2555,7 +2537,7 @@
             {
               "id": "03bf6f64-5e08-4c51-a489-30aecefa1acb",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894119219-okjgk4061hg.jpg",
-              "sortOrder": 13,
+              "sortOrder": 11,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "0208015d-3153-4bfa-bf10-41ce1dd90d1e",
@@ -2776,7 +2758,7 @@
             {
               "id": "9309b91d-55ee-4237-b2b7-8e547b4e718e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894221189-vl3naev1fv.jpg",
-              "sortOrder": 14,
+              "sortOrder": 12,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "6b2e9705-d4ad-496e-a99e-accbe7d05cee",
@@ -2785,7 +2767,7 @@
             {
               "id": "8cb20667-b6f3-4be7-8039-9de4780e2874",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894221189-a54n8gqds59.jpg",
-              "sortOrder": 15,
+              "sortOrder": 13,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "6b2e9705-d4ad-496e-a99e-accbe7d05cee",
@@ -2794,7 +2776,7 @@
             {
               "id": "91062824-67e2-4b0f-bb7b-d696dbf484c8",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894221189-775mqke9dvg.jpg",
-              "sortOrder": 16,
+              "sortOrder": 14,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "6b2e9705-d4ad-496e-a99e-accbe7d05cee",
@@ -2803,7 +2785,7 @@
             {
               "id": "ebbfaa10-5d0c-4cd3-87f7-c3b3c238d1da",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894221189-o1mxoukvklo.jpg",
-              "sortOrder": 17,
+              "sortOrder": 15,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "6b2e9705-d4ad-496e-a99e-accbe7d05cee",
@@ -3033,7 +3015,7 @@
             {
               "id": "9f8cd2c9-5023-4858-ad3a-f5b78caa0afc",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894361379-ddysp0rq6g.jpg",
-              "sortOrder": 18,
+              "sortOrder": 16,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "5a9420f6-704f-492e-a38f-d4e1a99baf6e",
@@ -3042,7 +3024,7 @@
             {
               "id": "c52c5fa9-216e-4718-8595-07c70817a811",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894361380-8ainsggapat.jpg",
-              "sortOrder": 19,
+              "sortOrder": 17,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "5a9420f6-704f-492e-a38f-d4e1a99baf6e",
@@ -3051,7 +3033,7 @@
             {
               "id": "845637e0-31c4-4a11-8f89-640547c2ebd4",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894361380-s64dmapug37.jpg",
-              "sortOrder": 20,
+              "sortOrder": 18,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "5a9420f6-704f-492e-a38f-d4e1a99baf6e",
@@ -3060,7 +3042,7 @@
             {
               "id": "d9d378ce-b412-44e1-9b20-fd17ccd6c3af",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894361380-sp999v4u9cj.jpg",
-              "sortOrder": 21,
+              "sortOrder": 19,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "5a9420f6-704f-492e-a38f-d4e1a99baf6e",
@@ -3288,10 +3270,10 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "828fb7df-abed-4502-a890-4d6a3880edd8",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894295663-uwen21ew4f.jpg",
-              "sortOrder": 22,
-              "description": "",
+              "id": "5c6bef1e-d977-41c3-ac5c-a5eb5c6cc0a1",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894295663-p7nu6h6ipt.jpg",
+              "sortOrder": 26,
+              "description": "단독 수영장",
               "isSelected": true,
               "blockId": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
               "category": "roomtype_exterior"
@@ -3299,7 +3281,7 @@
             {
               "id": "19f23f42-58a1-49a9-976d-a46b1c85c28c",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771912896302-dwyhwt84x4a.jpg",
-              "sortOrder": 23,
+              "sortOrder": 48,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
@@ -3308,8 +3290,17 @@
             {
               "id": "db579297-2041-4fb8-baa8-35ff9a286847",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894295663-4xdwf294e4.jpg",
-              "sortOrder": 24,
+              "sortOrder": 49,
               "description": "자쿠지",
+              "isSelected": true,
+              "blockId": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "828fb7df-abed-4502-a890-4d6a3880edd8",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894295663-uwen21ew4f.jpg",
+              "sortOrder": 50,
+              "description": "글램핑장",
               "isSelected": true,
               "blockId": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
               "category": "roomtype_exterior"
@@ -3317,17 +3308,8 @@
             {
               "id": "d492c1cf-88ba-40b9-aafc-db9f209a6cc4",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894295663-gusvhpgqaq.jpg",
-              "sortOrder": 25,
+              "sortOrder": 51,
               "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "5c6bef1e-d977-41c3-ac5c-a5eb5c6cc0a1",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894295663-p7nu6h6ipt.jpg",
-              "sortOrder": 26,
-              "description": "단독 수영장",
               "isSelected": true,
               "blockId": "4c21c57c-ba9d-4449-93fa-57cc0c4aa149",
               "category": "roomtype_exterior"
@@ -3556,7 +3538,7 @@
             {
               "id": "2ee15fc2-771a-43a1-b8a2-17d89328f048",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894489640-4xrug5iidy7.jpg",
-              "sortOrder": 27,
+              "sortOrder": 20,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "2abaf6a6-f38e-4c33-94cf-bcdf894b0fff",
@@ -3565,7 +3547,7 @@
             {
               "id": "c93f0b62-47f5-47c7-a65d-9b8212f93b7d",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894489640-e053k000p6n.jpg",
-              "sortOrder": 28,
+              "sortOrder": 21,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "2abaf6a6-f38e-4c33-94cf-bcdf894b0fff",
@@ -3574,16 +3556,7 @@
             {
               "id": "9277aaba-3082-4700-8ff3-a666c6b59ca0",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894489640-7k68xocusof.jpg",
-              "sortOrder": 29,
-              "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "2abaf6a6-f38e-4c33-94cf-bcdf894b0fff",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "86393104-b9d6-4587-a208-c3209ae131f1",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894489640-vpupo7es5q9.jpg",
-              "sortOrder": 30,
+              "sortOrder": 22,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "2abaf6a6-f38e-4c33-94cf-bcdf894b0fff",
@@ -3592,16 +3565,7 @@
             {
               "id": "5b17fa5f-7360-414e-ae1a-d9098849729a",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771912896303-f6dmgpdbkbf.jpg",
-              "sortOrder": 31,
-              "description": "단독 수영장",
-              "isSelected": true,
-              "blockId": "2abaf6a6-f38e-4c33-94cf-bcdf894b0fff",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "d7a6b5c5-2d52-4ddf-9c82-22cb2a1fa37b",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771912896303-uu3xte2tnk.jpg",
-              "sortOrder": 32,
+              "sortOrder": 23,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "2abaf6a6-f38e-4c33-94cf-bcdf894b0fff",
@@ -3831,7 +3795,7 @@
             {
               "id": "be6ed380-54ff-40a0-8af9-79ae75089622",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894434418-pxnsryz5od.jpg",
-              "sortOrder": 33,
+              "sortOrder": 24,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "04e80c95-6661-490a-9019-51001a89c353",
@@ -3840,7 +3804,7 @@
             {
               "id": "dd1cfc07-2b58-4e1d-a0c3-ac20c9152fd9",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894434418-5g1dk8s2555.jpg",
-              "sortOrder": 34,
+              "sortOrder": 25,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "04e80c95-6661-490a-9019-51001a89c353",
@@ -3849,16 +3813,7 @@
             {
               "id": "1e68a46f-a42c-4ddd-8448-31abdb4f8829",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894434418-4zyp7fb8ng.jpg",
-              "sortOrder": 35,
-              "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "04e80c95-6661-490a-9019-51001a89c353",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "b6268fc4-d110-4478-ab1f-e5dc093891f7",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894434418-hciardbis1m.jpg",
-              "sortOrder": 36,
+              "sortOrder": 26,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "04e80c95-6661-490a-9019-51001a89c353",
@@ -3867,7 +3822,7 @@
             {
               "id": "d011edab-be49-48cd-a840-a5b7adefb8ee",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771912896303-013xs05k3q2ok.jpg",
-              "sortOrder": 37,
+              "sortOrder": 27,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "04e80c95-6661-490a-9019-51001a89c353",
@@ -4088,7 +4043,7 @@
             {
               "id": "d3cb76ec-3631-44bf-829b-987025158259",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894555277-1qag84q0ija.jpg",
-              "sortOrder": 38,
+              "sortOrder": 28,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "c67b092d-e608-4f04-9955-63655361c1d8",
@@ -4097,7 +4052,7 @@
             {
               "id": "9cbfce5c-47c5-4b95-8fe5-b36bb2ad145e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771912896303-kcnid4tsfq.jpg",
-              "sortOrder": 39,
+              "sortOrder": 29,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "c67b092d-e608-4f04-9955-63655361c1d8",
@@ -4106,16 +4061,7 @@
             {
               "id": "3f4e246b-64e7-4a5a-aa63-c9e313655c64",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894555277-yoy516qbx8s.jpg",
-              "sortOrder": 40,
-              "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "c67b092d-e608-4f04-9955-63655361c1d8",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "0c17ab9e-e10b-42bf-bd8f-fef824bc8619",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894555277-d6wmeujimit.jpg",
-              "sortOrder": 41,
+              "sortOrder": 30,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "c67b092d-e608-4f04-9955-63655361c1d8",
@@ -4124,7 +4070,7 @@
             {
               "id": "5a1ce991-b29e-446b-8536-d44a325b0e49",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771894555277-k8iedkeblne.jpg",
-              "sortOrder": 42,
+              "sortOrder": 31,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "c67b092d-e608-4f04-9955-63655361c1d8",
@@ -4345,7 +4291,7 @@
             {
               "id": "6f279963-0139-4f29-8c7d-2b044e367d0e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771897434451-wpkkysa90ep.jpg",
-              "sortOrder": 43,
+              "sortOrder": 32,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "0d4b3ada-c24e-4e86-85d6-a7b729ed3ca4",
@@ -4354,7 +4300,7 @@
             {
               "id": "37735fb1-e1ab-4008-af62-879d126b0f08",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771897434451-7v29jcpyxd.jpg",
-              "sortOrder": 44,
+              "sortOrder": 33,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "0d4b3ada-c24e-4e86-85d6-a7b729ed3ca4",
@@ -4363,7 +4309,7 @@
             {
               "id": "7c6d814a-6bf8-4653-860f-6006eed93130",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771897434452-rz32pe5k03b.jpg",
-              "sortOrder": 45,
+              "sortOrder": 34,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "0d4b3ada-c24e-4e86-85d6-a7b729ed3ca4",
@@ -4372,7 +4318,7 @@
             {
               "id": "65a18f41-5b1c-4d56-933a-d398350ee57e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771897434452-dtxlk3nf7dr.jpg",
-              "sortOrder": 46,
+              "sortOrder": 35,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "0d4b3ada-c24e-4e86-85d6-a7b729ed3ca4",
@@ -4593,7 +4539,7 @@
             {
               "id": "755cc3af-7f0c-4c99-adc7-645ef8e64701",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898010129-0878ftz5v3hj.jpg",
-              "sortOrder": 47,
+              "sortOrder": 36,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "11338b0d-2ef7-464f-ad54-6dad82bfa74e",
@@ -4602,7 +4548,7 @@
             {
               "id": "0a64d92c-1c70-4a78-8302-e5217162523f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771913037206-5nwhz88e0gc.jpg",
-              "sortOrder": 48,
+              "sortOrder": 37,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "11338b0d-2ef7-464f-ad54-6dad82bfa74e",
@@ -4611,16 +4557,7 @@
             {
               "id": "d411f787-6452-44e5-990b-79bacbac8687",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898010129-j6u5w4676f.jpg",
-              "sortOrder": 49,
-              "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "11338b0d-2ef7-464f-ad54-6dad82bfa74e",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "e569ed5d-6f05-472d-a545-66ceeca36faf",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898010129-62pgrdq7o69.jpg",
-              "sortOrder": 50,
+              "sortOrder": 38,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "11338b0d-2ef7-464f-ad54-6dad82bfa74e",
@@ -4629,7 +4566,7 @@
             {
               "id": "d25d55dc-c095-4367-95dd-a04606c11b89",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898010129-z68ds1qbtgk.jpg",
-              "sortOrder": 51,
+              "sortOrder": 39,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "11338b0d-2ef7-464f-ad54-6dad82bfa74e",
@@ -4850,7 +4787,7 @@
             {
               "id": "01ae1d29-7147-4498-a656-d829b96a5be2",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898070519-pn9hlzmjckd.jpg",
-              "sortOrder": 52,
+              "sortOrder": 40,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "d2c89dd8-0205-4247-8b21-e174006c95ff",
@@ -4859,7 +4796,7 @@
             {
               "id": "18e82b79-1b67-4f99-894c-7525ed0a598b",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771913037206-mq0rxa6qsu.jpg",
-              "sortOrder": 53,
+              "sortOrder": 41,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "d2c89dd8-0205-4247-8b21-e174006c95ff",
@@ -4868,16 +4805,7 @@
             {
               "id": "bb8ff484-7d33-41cc-8ddd-36b8499d8b9e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898070519-ga4kp9kfyjj.jpg",
-              "sortOrder": 54,
-              "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "d2c89dd8-0205-4247-8b21-e174006c95ff",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "41c9bac0-9823-4cf1-9f0a-361ad7633d17",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898070519-xofv1v1vyob.jpg",
-              "sortOrder": 55,
+              "sortOrder": 42,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "d2c89dd8-0205-4247-8b21-e174006c95ff",
@@ -4886,7 +4814,7 @@
             {
               "id": "7c2ef381-b84f-41ec-967d-3177670e71e0",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898070519-eyjycvf0x3k.jpg",
-              "sortOrder": 56,
+              "sortOrder": 43,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "d2c89dd8-0205-4247-8b21-e174006c95ff",
@@ -5107,7 +5035,7 @@
             {
               "id": "f6abccfd-a5bd-4b3b-9612-734600fa4d71",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898136632-0t32mbgf69hj.jpg",
-              "sortOrder": 57,
+              "sortOrder": 44,
               "description": "개별 바베큐",
               "isSelected": true,
               "blockId": "db11024c-55b9-414c-98cd-b097eac2e313",
@@ -5116,7 +5044,7 @@
             {
               "id": "fb9d7a23-4f7c-4f34-a2b7-55103c86c114",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771913037206-k01cazf5srb.jpg",
-              "sortOrder": 58,
+              "sortOrder": 45,
               "description": "자쿠지",
               "isSelected": true,
               "blockId": "db11024c-55b9-414c-98cd-b097eac2e313",
@@ -5125,16 +5053,7 @@
             {
               "id": "20ec10e2-fa10-44ab-96e1-36e28959f2e1",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898136632-e5egh9oxbi7.jpg",
-              "sortOrder": 59,
-              "description": "글램핑장",
-              "isSelected": true,
-              "blockId": "db11024c-55b9-414c-98cd-b097eac2e313",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "70c2fe55-e508-4003-99bf-8657408c50b3",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898136632-mei4lppi45.jpg",
-              "sortOrder": 60,
+              "sortOrder": 46,
               "description": "글램핑장",
               "isSelected": true,
               "blockId": "db11024c-55b9-414c-98cd-b097eac2e313",
@@ -5143,7 +5062,7 @@
             {
               "id": "05966052-6fdb-4923-8921-e2c566efd706",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/roomtype_exterior/1771898136632-exctvlhxyu9.jpg",
-              "sortOrder": 61,
+              "sortOrder": 47,
               "description": "단독 수영장",
               "isSelected": true,
               "blockId": "db11024c-55b9-414c-98cd-b097eac2e313",
@@ -5152,6 +5071,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "633e8d96-af92-405f-a65f-eb89e825373e"
   }
 }
