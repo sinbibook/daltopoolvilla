@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-02-24T03:08:39.607Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-02-24T03:57:37.491Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -1151,6 +1151,69 @@
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "2fc3342a-2fee-4510-b140-4c9082fc0dd9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971910-0e8sdll3dtp6.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f0dc520c-5200-49ab-b194-5d16f8170e82",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971911-uzl0hg8d4zr.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d907583b-31a4-4d7e-90e0-7ccbb1524a08",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971911-vhq1sp48uiq.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d697fd58-590a-4ff0-b297-c4e3015360b8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971911-tcaqdw28ly.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "0c612cdb-b839-4c66-9d6a-44f0a3009e2b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971911-fqdprqvenv4.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "6afe2849-7c7e-48bc-b74f-69164ed7a7f7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971911-bvap6cakk4.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "8f6818d4-0edf-4de8-88e7-06146324180f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971911-so0fwqmimto.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4beb753e-3297-4785-a829-7855e95528bf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971911-6llygjrvsf5.jpg",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a46571c7-e1fb-4039-9e45-30ddceed82d9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/index_hero/1771902971911-pxx8m579lps.jpg",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true
                   }
                 ],
                 "description": "눈부신 일출을 즐길 수 있는 일출 명소 영덕에서 \n머무는 내내 즐거움으로 가득한 추억이 되도록."
@@ -1223,7 +1286,7 @@
                     "id": "47d69ebb-4980-42a3-a5a4-4f0834fb072b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/directions_hero/1771897073147-pg6ukl654gd.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "설레는 여행의 시작, 달토글램핑으로 향하는 길.\n편안한 발걸음으로 안전하게 찾아오실 수 있도록 안내해드립니다.",
                     "isSelected": true
                   },
                   {
@@ -1243,8 +1306,8 @@
                 ]
               },
               "notice": {
-                "title": "ㅇㄹㅇㄴㄹ",
-                "description": "ㄴㅇㄹㄴㅇㄹ"
+                "title": "",
+                "description": ""
               }
             }
           ]
@@ -1440,9 +1503,6 @@
           ]
         }
       },
-      "popup": {
-        "popups": []
-      },
       "theme": {
         "font": {
           "koSub": {
@@ -1468,6 +1528,9 @@
           "primary": "#ECEBE8",
           "secondary": "#683C3C"
         }
+      },
+      "popup": {
+        "popups": []
       },
       "property": {
         "images": [
@@ -4876,7 +4939,6 @@
           ]
         }
       ]
-    },
-    "id": "633e8d96-af92-405f-a65f-eb89e825373e"
+    }
   }
 }
