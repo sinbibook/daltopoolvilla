@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-02-25T00:37:53.413Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-02-25T03:52:10.530Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -184,15 +184,29 @@
         "displayOrder": 3,
         "images": [
           {
-            "id": "66a4d1a0-5b6b-4250-a4c2-a8555f1eb443",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6705abf9-b3fa-47f5-8276-84cc1a629802/main/1771895899464-7amef0xg9t8.jpg",
-            "sortOrder": 3,
+            "id": "cdd65536-34a0-4028-9a04-ac8c91b7df3e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6705abf9-b3fa-47f5-8276-84cc1a629802/main/1771991024621-r1gry6qr9dp.jpg",
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
           {
             "id": "d09736a1-d25e-4040-b15b-6043fa7e601a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6705abf9-b3fa-47f5-8276-84cc1a629802/main/1771895899464-xb0oil343xb.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "66a4d1a0-5b6b-4250-a4c2-a8555f1eb443",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6705abf9-b3fa-47f5-8276-84cc1a629802/main/1771895899464-7amef0xg9t8.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "df123c8c-4f45-47d1-b18e-b0b5f8acd921",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6705abf9-b3fa-47f5-8276-84cc1a629802/main/1771895899464-4nvuho7kwb3.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true
@@ -200,21 +214,14 @@
           {
             "id": "86f7b816-ff54-40ff-8567-0d3506780ae4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6705abf9-b3fa-47f5-8276-84cc1a629802/main/1771895899464-gb4dre7iugb.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "df123c8c-4f45-47d1-b18e-b0b5f8acd921",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6705abf9-b3fa-47f5-8276-84cc1a629802/main/1771895899464-4nvuho7kwb3.jpg",
-            "sortOrder": 0,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           },
           {
             "id": "9a5f8d5d-c6af-4914-89f0-44051ea2034f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6705abf9-b3fa-47f5-8276-84cc1a629802/main/1771895899464-ju8zed5aut.jpg",
-            "sortOrder": 4,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           }
@@ -260,42 +267,14 @@
           {
             "id": "aac546d8-07ee-41c1-a6c5-09f973cebf44",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1be0051-d475-45f0-a6be-2be0c430bd12/main/1771895896195-fxrr0a0erlg.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "fd9cc325-f096-4965-ae83-8d6b893b0f12",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1be0051-d475-45f0-a6be-2be0c430bd12/main/1771895896195-ky9vafp6ht8.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "69887ff2-c86e-4e20-9e19-2d81c2a53dfd",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1be0051-d475-45f0-a6be-2be0c430bd12/main/1771895896195-jb097tgz6.jpg",
-            "sortOrder": 5,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
           {
             "id": "cd3191a3-7b1f-4043-a68d-26cd3970fd32",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1be0051-d475-45f0-a6be-2be0c430bd12/main/1771895896195-bw1m7fa969.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "0e95419f-9fc1-44ac-91ac-703d89d29fc1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1be0051-d475-45f0-a6be-2be0c430bd12/main/1771895896195-crwhegs2g17.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "66024786-e4fd-4d4f-9f19-ed17088c0588",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b1be0051-d475-45f0-a6be-2be0c430bd12/main/1771895896194-dfdwf4pncil.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           }
@@ -427,11 +406,34 @@
         ]
       },
       {
+        "id": "f5c84539-736d-4e2a-a89b-e8cb847f08eb",
+        "name": "짚라인",
+        "description": "공용 짚라인 이용가능",
+        "usageGuide": "달토글램핑 이용객이라면 언제든지 이용가능합니다.",
+        "displayOrder": 9,
+        "images": [
+          {
+            "id": "f2a323ab-00fa-49a3-8870-9d73ee5292f1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f5c84539-736d-4e2a-a89b-e8cb847f08eb/main/1771990872650-pcabwsc5jvs.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "cde6a5f2-1439-4974-856c-80e91b9c5c6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f5c84539-736d-4e2a-a89b-e8cb847f08eb/main/1771990872650-71slp3c7df7.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
         "id": "b6e4d7af-dafd-488a-a0ae-c18bc2e4ab1e",
         "name": "부대시설",
         "description": "달토에서 즐길 수 있는 특별한 부대시설 ",
-        "usageGuide": "[카페&무인매점] 간단한 음료, 스낵, 라면 등 구매 가능\n[짚라인] 짚라인 이용가능 \n[전기차충전소] 전기차 충전 이용가능",
-        "displayOrder": 9,
+        "usageGuide": "[카페&무인매점] 간단한 음료, 스낵, 라면 등 구매 가능\n[전기차충전소] 전기차 충전 이용가능",
+        "displayOrder": 10,
         "images": [
           {
             "id": "0212424d-0da3-4466-b5f6-d3465b2db8bb",
@@ -1633,7 +1635,12 @@
             "woff2": null,
             "family": "Cormorant"
           },
-          "koMain": null
+          "koMain": {
+            "cdn": null,
+            "key": "gyeonggimillenniumbackground",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
+            "family": "GyeonggiMillenniumBackground"
+          }
         },
         "color": {
           "primary": "#ECEBE8",
