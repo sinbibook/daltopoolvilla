@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.70.0",
-    "generatedAt": "2026-06-30T01:56:18.001458021Z",
+    "version": "1.71.0",
+    "generatedAt": "2026-06-30T01:58:46.947486779Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -9,6 +9,7 @@
   "property": {
     "id": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "name": "영덕 달토 풀빌라 글램핑",
+    "nameEn": "Yeongdeok Dalto Poolvilla Glamping",
     "description": "지구로 놀러오는 달토끼 이야기, 이곳은 영덕 달토 풀빌라 글램핑입니다.",
     "subtitle": "지구로 놀러오는 달토끼 이야기, 이곳은 영덕 달토 풀빌라 글램핑입니다.",
     "address": "경북 영덕군 병곡면 흰돌로 85-32 달토 풀빌라 글램핑",
@@ -23,6 +24,9 @@
     "reservationGuide": "- 당일피크닉의 객실의 경우 당일 입실에서 퇴실하는 피크닉으로 14:00~21:00 까지 이용 가능\n- 퍼플캣,파밀리아 객실은 무료 무한리필 BBQ 이용 불가, 개별바베큐장 이용은 가능",
     "province": "경상북도",
     "city": "영덕군",
+    "domain": "daltopoolvilla.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1266854832",
+    "ybsId": "74872",
     "amenities": [
       "흡연구역(지정장소)",
       "편의점/매점",
@@ -48,8 +52,7 @@
       "businessEmail": "",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -765,11 +768,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Yeongdeok Dalto Poolvilla Glamping",
-    "domain": "daltopoolvilla.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/1266854832",
-    "ybsId": "74872"
+    ]
   },
   "rooms": [
     {
@@ -4416,6 +4415,7 @@
     }
   ],
   "homepage": {
+    "id": "633e8d96-af92-405f-a65f-eb89e825373e",
     "domain": "daltopoolvilla.kr",
     "templateType": "fullpage_visual",
     "images": [
@@ -4872,6 +4872,9 @@
             }
           ]
         },
+        "nearbyAttractions": {
+          "sections": [ ]
+        },
         "layoutMap": {
           "sections": [
             {
@@ -4906,35 +4909,6 @@
               "enabled": true
             }
           ]
-        },
-        "nearbyAttractions": {
-          "sections": [ ]
-        }
-      },
-      "theme": {
-        "font": {
-          "koSub": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
-          },
-          "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
-            "key": "cormorant",
-            "woff2": null,
-            "family": "Cormorant"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "gyeonggimillenniumbackground",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
-            "family": "GyeonggiMillenniumBackground"
-          }
-        },
-        "color": {
-          "primary": "#ECEBE8",
-          "secondary": "#683C3C"
         }
       },
       "popup": {
@@ -4991,7 +4965,34 @@
           }
         ]
       },
+      "theme": {
+        "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "gyeonggimillenniumbackground",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
+            "family": "GyeonggiMillenniumBackground"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          }
+        },
+        "color": {
+          "primary": "#ECEBE8",
+          "secondary": "#683C3C"
+        }
+      },
       "property": {
+        "name": "영덕 달토 풀빌라 글램핑",
         "images": [
           {
             "id": "91eda72a-4ba7-48ee-83e6-56ae1d1e821b",
@@ -5102,7 +5103,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "영덕 달토 풀빌라 글램핑",
         "nameEn": "Yeongdeok Dalto Poolvilla Glamping"
       },
       "roomtypes": [
@@ -8994,7 +8994,6 @@
           ]
         }
       ]
-    },
-    "id": "633e8d96-af92-405f-a65f-eb89e825373e"
+    }
   }
 }
