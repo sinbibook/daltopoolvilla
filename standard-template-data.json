@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.71.0",
-    "generatedAt": "2026-06-30T01:58:46.947486779Z",
+    "version": "1.72.0",
+    "generatedAt": "2026-07-03T08:18:21.406658060Z",
     "templateType": "fullpage_visual",
     "propertyId": "17faec8d-d02b-4e1e-80c4-29b39b1d63fa",
     "homepageId": "633e8d96-af92-405f-a65f-eb89e825373e"
@@ -15,7 +15,7 @@
     "address": "경북 영덕군 병곡면 흰돌로 85-32 달토 풀빌라 글램핑",
     "latitude": 36.6124684907967,
     "longitude": 129.407466659921,
-    "contactPhone": "",
+    "contactPhone": "010-4310-1600",
     "contactEmail": "dalto0701@naver.com",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -4961,6 +4961,27 @@
             "endDate": null,
             "sortOrder": 1,
             "startDate": null,
+            "description": ""
+          },
+          {
+            "id": "81ae866c-70bf-42e9-81c6-9b14208b2e93",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "7b4ca4e4-0989-464d-82b2-1bf5712963f8",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/633e8d96-af92-405f-a65f-eb89e825373e/popup/1783066695039-res6ai1g44.png",
+                "sortOrder": 3,
+                "description": "",
+                "isSelected": true,
+                "blockId": "81ae866c-70bf-42e9-81c6-9b14208b2e93"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-08-31",
+            "sortOrder": 2,
+            "startDate": "2026-07-03",
             "description": ""
           }
         ]
